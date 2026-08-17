@@ -1,9 +1,5 @@
-TCC
-
-- Introdução: Processos administrativos de RH frequentemente dependem de comunicação direta entre colaboradores e profissionais do setor, por meio de e-mails, mensagens, documentos físicos ou sistemas com acesso restrito, aumentando o trabalho operacional e reduzindo a autonomia dos colaboradores.
 
 - Objetivo Geral: Este trabalho tem como objetivo geral desenvolver um sistema de gestão de recursos humanos em formato de SaaS.
-
 
 - Objetivos Específicos:
 

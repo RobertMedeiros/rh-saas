@@ -1,0 +1,39 @@
+TCC
+
+- Introdução: Processos administrativos de RH frequentemente dependem de comunicação direta entre colaboradores e profissionais do setor, por meio de e-mails, mensagens, documentos físicos ou sistemas com acesso restrito, aumentando o trabalho operacional e reduzindo a autonomia dos colaboradores.
+
+- Objetivo Geral: Este trabalho tem como objetivo geral desenvolver um sistema de gestão de recursos humanos em formato de SaaS.
+
+
+- Objetivos Específicos:
+
+ * Definir o escopo para cada tipo de usuário que usará o sistema.
+
+ * Criar os usuários e a autenticação que irá autorizar cada usuário do que podem visualizar ou editar dentro do sistema.
+
+ * Desenvolver o CRUD de colaboradores do sistema, que estará a disposição do analista e supervisor do sistema.
+
+ * Desenvolver as funcionalidades do colaborador, como, visualização dos documentos, envio de atestados, histórico de solicitações, visualização de comunicados,  solicitação de alteração de dados pessoais, solicitação de férias e outras solicitações no geral.
+
+ * Desenvolver as funcionalidade do Analista de RH, que além das de colaborador, serão atribuídas CRUD de colaboradores, anexar e gerenciar documentos dos colaboradores, aprovar ou rejeitar atestados enviados, publicar comunicados, histórico de processos feitos, Dashboard de atividades à serem feitas e aprovar/rejeitar solicitações no geral.
+
+ * Desenvolver as funcionalidades do supervisor, que além das de colaborador e analista, serão atribuídas CRUD de analistas e confirmação das solicitações aprovadas pelos analistas.
+
+
+- Atores:
+- Requisitos Funcionais:
+- Requisitos não Funcionais:
+- Fora do Escopo:
+
+ cálculo de folha de pagamento;
+ cálculo de INSS, FGTS e IRRF;
+ geração de contracheques a partir da folha;
+ integração com bancos;
+ controle de ponto completo;
+ integração com eSocial;
+ gestão contábil;
+ recrutamento e seleção completo;
+ avaliação de desempenho complexa;
+ gestão financeira da empresa.
+	
+- MVP:
